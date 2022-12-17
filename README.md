@@ -5,5 +5,6 @@
 3. Aprenda na prática como usar listas (arrays)
 4. Entenda como evitar código duplicado com laços de repetição
 5. Desenvolva sua lógica de programação
+6. feito aqui: https://editor.p5js.org/
 
 #Alura
