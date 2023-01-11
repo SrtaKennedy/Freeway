@@ -2,11 +2,11 @@
 
 Recriei um jogo clássico, o Freeway, só que em Javascript, utilizando laços de repetição, listas usando o for.
 
+![foto0](https://user-images.githubusercontent.com/90563215/211823533-865039eb-b432-4895-a14d-2171cfed93c8.gif)
+
 | 💻 Tecnologias utilizadas: | 
 | --------------------------  |
 | p5.js Web                   |
 
-
-![SharedScreenshot](https://user-images.githubusercontent.com/90563215/211822312-0c01e3c8-05b6-4f31-a3f5-082d4e9312c1.gif)
 
 #Alura
